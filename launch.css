@@ -1,0 +1,43 @@
+
+.lrdiscoverwidget .site-desc {
+font-size: 16px;
+line-height: 16px;
+text-align: left;
+padding: 0 0 40px 20px;
+}
+
+.lrdiscoverwidget {
+width:320px;
+margin-right:0px;
+margin-left: 0px;
+}
+
+.lrdiscoverwidget .site-title {
+font-size:50px;   
+}
+
+.site-tagline {
+font-size:25px;
+}
+
+.lrdiscoverwidget .site {
+width:288px;
+}
+
+.inviteform {
+    text-align: center;
+}
+
+.lrdiscoverwidget .inviteform .field {
+margin-left:4px;
+width:252px;
+}
+
+.lrdiscoverwidget .share-via-email {
+width:260px;
+}
+
+.lrdiscoverwidget .like {
+width:280px;
+}
+
