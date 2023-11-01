@@ -1,0 +1,31 @@
+{"valid_date":"2019-12-30 23:00",
+ "id":"50",
+ "ad_on_bootup":1,
+ "tev":false,
+ "count":3,
+ "branding":false,
+ "persistent":false,
+ "_url":"https://forms.gle/1LLZVEnP2AYXUR5G8",
+ "msg": "Please, help us with this survey!",
+ "title":"Do you want Soctics 2?",
+ "open_url": {
+    "alt_url":"https://forms.gle/wxkEtMPvhoiEqfBF9",
+    "url":"https://forms.gle/wxkEtMPvhoiEqfBF9",
+    "_url":"mailto:friend&subject=Soctics is Free today!&body=Hi,\n\nSoctics, where football meets airhockey meets billiard, is free today!\nhttp://bit.ly/get_soctics\n\n",
+    "open_title":"Survey :)"
+  },
+ "cancel_title": "No",
+ "_poll":{
+   "options":["YES $1", "Leave as is"]
+ },
+ "landscape":false,
+ "localnotification": {
+   "fire_date":"2011-05-31 18:12",
+   "url":"http://soctics.com/release.html",
+   "landscape":true,
+   "msg":"Soctics League available in the App Store.",
+   "sound":true,
+   "badge":1,
+   "tag":"rrelease"
+ }
+}
