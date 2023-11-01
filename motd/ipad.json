@@ -1,0 +1,32 @@
+{"valid_date":"2016-06-30 23:00",
+ "id":"43",
+ "ad_on_bootup":1,
+ "tev":false,
+ "count":3,
+ "branding":false,
+ "persistent":false,
+ "_url":"http://soctics.com/appgratis_iphone.html",
+ "msg": "Do you enjoy playing with Soctics and would like to get regular updates?\n\nWould you also support us with a monthly subscription fee?\n\nAs little as $1 every month would enable us to continue working on it.",
+ "title":"Soctics Upgrade",
+ "_title":"Message Of The Day",
+ "_open_url": {
+    "alt_url":"https://bit.ly/soctics_share",
+    "url":"http://bit.ly/soctics_fb_share_post_20140319",
+    "_url":"mailto:friend&subject=Soctics is Free today!&body=Hi,\n\nSoctics, where football meets airhockey meets billiard, is free today!\nhttp://bit.ly/get_soctics\n\n",
+    "open_title":"Share :)"
+  },
+ "cancel_title": "Show me ADs instead",
+ "poll":{
+   "options":["YES $1", "Leave as is"]
+ },
+ "landscape":false,
+ "localnotification": {
+   "fire_date":"2011-05-31 18:12",
+   "url":"http://soctics.com/release.html",
+   "landscape":true,
+   "msg":"Soctics League available in the App Store.",
+   "sound":true,
+   "badge":1,
+   "tag":"rrelease"
+ }
+}
